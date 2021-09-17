@@ -197,7 +197,7 @@ console.log(joe.scopeArrow());
 
 // TODO: Write a COMMENT below to answer the following questions.
 // 1. What is "this" when joe.scope() is invoked?
-// this is the object of Joe, including his age, hometown and name.
+// this is the object of Joe, including his age, hometown and name. its an instance
 // 2. What is "this" when joe.scopeArrow() is invoked?
 // This was undefined
 // 3. Explain why "this" is different when an arrow function is used.
